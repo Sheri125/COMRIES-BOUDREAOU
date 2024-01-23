@@ -300,7 +300,7 @@
 .para3{
     height: 40vh;
     width: 65%;
-    background-color: bisque;
+    /* background-color: bisque; */
     text-align: center;
     display: flex;
     flex-direction: column;
